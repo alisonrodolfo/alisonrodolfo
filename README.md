@@ -31,7 +31,12 @@
  
 <div> 
   <img  alt="Alison-GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" ></a>
-  <img  alt="Alison-GO" src="" ></a>
+  <img  alt="Alison-SHELL" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" ></a>
+  <img  alt="Alison-REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" ></a>
+  <img  alt="Alison-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" ></a>
+  <img  alt="Alison-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" ></a>
+  <img  alt="Alison-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" ></a>
+
  
  
 </div>
